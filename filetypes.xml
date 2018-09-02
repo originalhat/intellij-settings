@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="Staticfile" type="PLAIN_TEXT" />
       <mapping pattern="__mocks__" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
