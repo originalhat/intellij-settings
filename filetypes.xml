@@ -4,7 +4,6 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="Staticfile" type="PLAIN_TEXT" />
       <mapping pattern="__mocks__" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
