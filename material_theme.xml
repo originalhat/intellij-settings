@@ -1,6 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.9.0-pre1" />
+    <option name="version" value="2.9.6.4" />
+    <option name="selectedTheme" value="ONE_LIGHT" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="80cbc4" />
     <option name="userId" value="6764c7f0:16607398b52:-8000" />
     <option name="isWizardShown" value="true" />
   </component>
