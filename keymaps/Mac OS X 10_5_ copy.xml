@@ -2,6 +2,9 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl meta alt a" />
   </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl meta alt h" />
   </action>
