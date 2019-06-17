@@ -12,6 +12,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*test.js</mask>
     <mask>*.js</mask>
   </component>
 </application>
