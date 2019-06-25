@@ -1,6 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
   <action id=":cursive.actions.paredit/close-curly-and-newline" />
+  <action id=":cursive.actions.paredit/close-square-and-newline" />
   <action id=":cursive.actions.paredit/wrap-curly" />
+  <action id=":cursive.actions.paredit/wrap-square" />
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl meta alt a" />
   </action>
