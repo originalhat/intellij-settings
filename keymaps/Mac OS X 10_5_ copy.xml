@@ -1,14 +1,45 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id=":cursive.actions.paredit/backward" />
+  <action id=":cursive.actions.paredit/barf-backwards" />
+  <action id=":cursive.actions.paredit/barf-forwards" />
   <action id=":cursive.actions.paredit/close-curly-and-newline" />
+  <action id=":cursive.actions.paredit/close-paren-and-newline" />
   <action id=":cursive.actions.paredit/close-square-and-newline" />
+  <action id=":cursive.actions.paredit/copy-as-kill" />
+  <action id=":cursive.actions.paredit/forward" />
+  <action id=":cursive.actions.paredit/join" />
+  <action id=":cursive.actions.paredit/kill" />
+  <action id=":cursive.actions.paredit/kill-sexp" />
+  <action id=":cursive.actions.paredit/move-form-down" />
+  <action id=":cursive.actions.paredit/move-form-up" />
+  <action id=":cursive.actions.paredit/raise" />
+  <action id=":cursive.actions.paredit/slurp-backwards" />
+  <action id=":cursive.actions.paredit/slurp-forwards" />
+  <action id=":cursive.actions.paredit/splice" />
+  <action id=":cursive.actions.paredit/split" />
+  <action id=":cursive.actions.paredit/thread-form" />
+  <action id=":cursive.actions.paredit/unthread-form" />
   <action id=":cursive.actions.paredit/wrap-curly" />
+  <action id=":cursive.actions.paredit/wrap-paren" />
+  <action id=":cursive.actions.paredit/wrap-quotes" />
   <action id=":cursive.actions.paredit/wrap-square" />
+  <action id=":cursive.editor.actions/show-type" />
+  <action id=":cursive.repl.actions/jump-to-repl" />
+  <action id=":cursive.repl.actions/load-file" />
+  <action id=":cursive.repl.actions/macroexpansion" />
+  <action id=":cursive.repl.actions/next-history-item" />
+  <action id=":cursive.repl.actions/prev-history-item" />
+  <action id=":cursive.repl.actions/run-top-sexp" />
+  <action id=":cursive.repl.actions/search-history" />
+  <action id=":cursive.repl.actions/switch-namespace" />
+  <action id=":cursive.repl.actions/sync-files" />
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl meta alt a" />
   </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="GotoNamespace" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl meta alt h" />
   </action>
