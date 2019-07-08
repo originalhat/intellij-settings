@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="dockerfile" type="Dockerfile" />
-      <mapping ext="proto" type="JAVA" />
-      <removed_mapping ext="proto" type="PROTO" />
     </extensionMap>
   </component>
 </application>
