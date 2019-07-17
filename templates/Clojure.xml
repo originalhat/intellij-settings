@@ -1,0 +1,14 @@
+<templateSet group="Clojure">
+  <template name="prn" value="(prn &quot;$string$&quot;)$END$" description="Print a string" toReformat="false" toShortenFQNames="true">
+    <variable name="string" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Clojure" value="true" />
+    </context>
+  </template>
+  <template name="prnv" value="(prn &quot;[[ $var$ ]]&quot; $var$)$END$" description="Print a string and var" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Clojure" value="true" />
+    </context>
+  </template>
+</templateSet>
