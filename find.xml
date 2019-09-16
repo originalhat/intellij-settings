@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*test.clj" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -13,8 +14,8 @@
     <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>!*.md</mask>
-    <mask>!*test.clj</mask>
     <mask>!*test.js</mask>
     <mask>*Banner*</mask>
+    <mask>!*test.clj</mask>
   </component>
 </application>
