@@ -31,11 +31,11 @@
   <action id=":cursive.repl.actions/run-top-sexp" />
   <action id=":cursive.repl.actions/search-history" />
   <action id=":cursive.repl.actions/sync-files" />
+  <action id=":cursive.testing.actions/rerun-last-test">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id=":cursive.testing.actions/run-ns-tests">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
-  </action>
-  <action id=":cursive.testing.actions/run-single-test">
-    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl meta alt a" />
