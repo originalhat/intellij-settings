@@ -1,5 +1,9 @@
 <code_scheme name="Default" version="173">
   <option name="SOFT_MARGINS" value="80" />
+  <ClojureCodeStyleSettings>{
+  :bond.james/with-stub! :only-indent
+  :plans-client.mock/with-mocked-grpc :only-indent
+}</ClojureCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
