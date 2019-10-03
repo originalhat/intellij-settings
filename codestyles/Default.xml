@@ -2,6 +2,7 @@
   <option name="SOFT_MARGINS" value="80" />
   <ClojureCodeStyleSettings>{
   :bond.james/with-spy :only-indent
+  :bond.james/with-stub :only-indent
   :bond.james/with-stub! :only-indent
   :circleci.backplane.statsd/with-timing-metric :only-indent
   :plans-client.mock/with-mocked-grpc :only-indent
