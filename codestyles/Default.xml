@@ -6,6 +6,7 @@
   :bond.james/with-stub! :only-indent
   :circleci.backplane.config/with-config :only-indent
   :circleci.backplane.statsd/with-timing-metric :only-indent
+  :circleci.components.rabbitmq.core/with-channel :only-indent
   :plans-client.mock/with-mocked-grpc :only-indent
 }</ClojureCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
