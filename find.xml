@@ -16,5 +16,6 @@
     <mask>!*test.js</mask>
     <mask>*Banner*</mask>
     <mask>!*test.clj</mask>
+    <mask>*.cljs</mask>
   </component>
 </application>
