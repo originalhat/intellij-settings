@@ -20,5 +20,6 @@
     <mask>!*log</mask>
     <mask>*.js</mask>
     <mask>*.cljs</mask>
+    <mask>*.md</mask>
   </component>
 </application>
