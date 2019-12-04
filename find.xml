@@ -24,5 +24,6 @@
     <mask>*.md</mask>
     <mask>*.story.js</mask>
     <mask>!*test.js</mask>
+    <mask>!test*.clj</mask>
   </component>
 </application>
