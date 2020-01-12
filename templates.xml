@@ -23,10 +23,6 @@
           <option name="key" value="tldFunction" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Kotlin" />
-          <option name="key" value="object" />
-        </TemplateKey>
-        <TemplateKey>
           <option name="groupName" value="jsf" />
           <option name="key" value="uicomponent" />
         </TemplateKey>
@@ -297,6 +293,10 @@
         <TemplateKey>
           <option name="groupName" value="Spring Dynamic Modules" />
           <option name="key" value="osgisetwithcomparator" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="object" />
         </TemplateKey>
         <TemplateKey>
           <option name="groupName" value="spring" />
