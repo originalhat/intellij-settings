@@ -23,5 +23,6 @@
     <mask>*.cljs</mask>
     <mask>!*test.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.story.tsx</mask>
   </component>
 </application>
