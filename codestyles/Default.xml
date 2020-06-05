@@ -7,6 +7,7 @@
   :circleci.backplane.config/with-config :only-indent
   :circleci.backplane.statsd/with-timing-metric :only-indent
   :circleci.components.rabbitmq.core/with-channel :only-indent
+  :cursive.formatting/default-only-indent true
   :plans-client.mock/with-mocked-grpc :only-indent
 }</ClojureCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
